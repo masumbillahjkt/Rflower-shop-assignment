@@ -28,7 +28,7 @@ color: white;
 }
 .our-taitel{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 150px;
 
 
 }
@@ -39,7 +39,8 @@ font-family: Lato;
 font-size: 40px;
 font-style: normal;
 font-weight: 800;
-line-height: normal
+line-height: normal;
+margin: 100px;
 }
 .bannar-paragar{
     font-size: 22px;
@@ -47,19 +48,21 @@ line-height: normal
 
 }
 .bannar-img{
-    text-align: center;
+   justify-content: center;
     height: 605px;
     font-size: 56px;
     box-shadow: 44px;
+    display: flex;
+
 
     
 }
 .img{
-    padding: 15px;
-    gap: 24px;
-    width: 464px;
-height: 538px;
-flex-shrink: 0;
+    padding: 25px;
+    gap:24px;
+    width: 564px;
+    height: 538px;
+
 border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
 }
@@ -71,11 +74,49 @@ display: flex;
 text-align: center;
 margin: 253px 0;
 
+
 }
 .png-images{ 
     width: 1090px;
 height: 147px;
 flex-shrink: 0;
 }
-.imagroup{
-   
+c.pngwing{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.section{
+    display: flex;
+    background: floralwhite;
+    justify-content: space-between;
+    
+}
+.bannar-taitelhot{
+text-align: center;
+margin:;
+}
+.instagram{
+  text-align: center;
+  margin-top: 100px;
+
+}
+.Rectangle{
+    text-align: center;
+    gap: 20px;
+}
+.get{
+    
+    background-image: url('../images/Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    text-align: center;
+    
+}
+
