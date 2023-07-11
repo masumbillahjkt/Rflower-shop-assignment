@@ -1,8 +1,11 @@
-
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 
 .taitel1{
     display: flex;
     justify-content: space-between;
+    margin: 0 400px;
 }
 .header{
     background: floralwhite;
@@ -11,4 +14,68 @@
     width: 708px;
 height: 506px;
 flex-shrink: 0;
+margin: 197px;
+
 }
+.shop-nowe{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: white;
+}
+.our-taitel{
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+.Our{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal
+}
+.bannar-paragar{
+    font-size: 22px;
+    font-weight: 400;
+
+}
+.bannar-img{
+    text-align: center;
+    height: 605px;
+    font-size: 56px;
+    box-shadow: 44px;
+
+    
+}
+.img{
+    padding: 15px;
+    gap: 24px;
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.images-group{
+padding: 140px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+display: flex;
+text-align: center;
+margin: 253px 0;
+
+}
+.png-images{ 
+    width: 1090px;
+height: 147px;
+flex-shrink: 0;
+}
+.imagroup{
+   
