@@ -41,14 +41,11 @@ font-weight: 700;
 }
 .section-bar{
     display: flex;
-}
-.div-bar{
     width: 708px;
     height: 506px;
    flex-shrink: 0;
    border: 8px;
-   margin: 172px 240px 972px;
-}
+}   
 .images-bar{
     width: 635px;
 height: 800px;
@@ -56,3 +53,13 @@ flex-shrink: 0;
 border: 20px;
 margin: 50px 240px 4020px;
 }
+.Our-Featured-Flowers{
+    width: 594px;
+height: 132px;
+flex-shrink: 0;
+border-radius: 8px;
+text-align: center;
+padding: 20px;
+
+}
+    
