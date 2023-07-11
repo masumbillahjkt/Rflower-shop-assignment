@@ -1,65 +1,14 @@
-body{
-    font-family: 'Open Sans', sans-serif;
+
+
+.taitel1{
+    display: flex;
+    justify-content: space-between;
 }
-header{
+.header{
     background: floralwhite;
-    width: 1920px;
-    color: rgb(15, 15, 15);
-    height: 850px;
-    flex-shrink: 0;
 }
-.section-bar{
-
-}
-.lets-bar{
-    display: flex;
+.taital-dcr{
     width: 708px;
-    flex-direction: column;
-    flex-shrink: 0;
-    display: flex;
-    width: 708px;
-    flex-direction: column;
-    flex-shrink: 0
-
-}
-.paragrap-bar{
-    display: flex;
-width: 634px;
-flex-direction: column;
+height: 506px;
 flex-shrink: 0;
 }
-.button-bar{
-    display: inline-flex;
-padding: 20px 45px;
-align-items: flex-start;
-gap: 10px;
-border-radius: 8px;
-background: #E55473;
-color: white;
-font-size: 20px;
-font-weight: 700;
-}
-.section-bar{
-    display: flex;
-    width: 708px;
-    height: 506px;
-   flex-shrink: 0;
-   border: 8px;
-}   
-.images-bar{
-    width: 635px;
-height: 800px;
-flex-shrink: 0;
-border: 20px;
-margin: 50px 240px 4020px;
-}
-.Our-Featured-Flowers{
-    width: 594px;
-height: 132px;
-flex-shrink: 0;
-border-radius: 8px;
-text-align: center;
-padding: 20px;
-
-}
-    
